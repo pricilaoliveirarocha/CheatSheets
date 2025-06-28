@@ -1,8 +1,7 @@
-# 🐧 Linux
-Este arquivo contém comandos práticos para uso diário no terminal Linux.
----
+# Linux
 
 ## 📂 Navegação
+
 ```bash
 pwd               # Mostra o diretório atual
 ls                # Lista arquivos e pastas
