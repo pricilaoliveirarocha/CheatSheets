@@ -1,6 +1,6 @@
-# 🌱 Git
+# Git
 
-## 🧱 Inicialização
+## Inicialização
 
 ```bash
 git init                      # Inicia um repositório Git vazio
