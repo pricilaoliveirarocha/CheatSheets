@@ -9,13 +9,7 @@ This repository includes essential commands and workflows for:
 
 Each section is organized into minimal, clean markdown files for quick lookup and learning.
 
-Ideal for:
-- Developers and DevOps professionals
-- Beginners in tech
-- Anyone who needs a fast command-line reference
-
-
-## Índice
+## Pages
 - [Linux](./linux.md)
 - [Git](./git.md)
 - [Windows](./windows.md)
