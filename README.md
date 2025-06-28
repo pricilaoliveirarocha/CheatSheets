@@ -13,3 +13,9 @@ Ideal for:
 - Developers and DevOps professionals
 - Beginners in tech
 - Anyone who needs a fast command-line reference
+
+
+## Índice
+- [Linux](./linux.md)
+- [Git](./git.md)
+- [Windows](./windows.md)
