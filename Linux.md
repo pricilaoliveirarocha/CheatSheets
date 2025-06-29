@@ -1,6 +1,6 @@
 # Linux
 
-## Navegação
+## Basics
 
 ```bash
 pwd               # Mostra o diretório atual
