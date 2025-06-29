@@ -1,6 +1,6 @@
 # Windows
 
-## Navegação entre diretórios
+## Basics
 
 ```cmd
 cd             :: Muda o diretório atual
